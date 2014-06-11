@@ -12,4 +12,25 @@
 
 body {
     background: black url("images/background.jpg") top center no-repeat;
+    font-size: 20px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: lighter;
+    text-align: center;
+    padding: 40px;
+    color: #333;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizelegibility;
+
 }
+
+h1,h2,h3,h4,h5,h6 {
+    font-weight: normal;
+    padding: 0 0 10px;
+    margin: 0 0 10px;
+}
+
+#container {
+    width: 600px;
+    margin: 0 auto;
+}
+
