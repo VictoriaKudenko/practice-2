@@ -1,0 +1,15 @@
+/*
+    El Amigo Pub + Grill
+    ====================
+    Victoria Kudenko
+    June 2014
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: black url("images/background.jpg") top center no-repeat;
+}
